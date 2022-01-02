@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="danielsoutar's Github Stats" width="26px" src="https://github-readme-stats.vercel.app/api?username=danielsoutar&show_icons=true&hide_border=true)" />
+<img align="left" alt="danielsoutar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danielsoutar&show_icons=true&hide_border=true)" />
 
 [website]: https://danielsoutar.github.io/
 [linkedin]: https://www.linkedin.com/in/daniel-soutar

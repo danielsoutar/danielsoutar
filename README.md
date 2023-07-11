@@ -1,6 +1,6 @@
 ### [Daniel Soutar][website]
 
-### Machine Learning Engineer @ IQVIA
+### Algorithm Engineer @ Ki Insurance
 - Experienced in multiple levels of ML software
 - Passionate about ML in research and practice
 - Optimised deep neural networks on custom hardware + machine learning pipelines
